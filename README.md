@@ -186,6 +186,11 @@ Step 7 — Result
 | Azure Developer Associate | Microsoft | Active |
 | Python 101 for Data Science | IBM | Active |
 | Docker Foundations | IBM | Active |
+| ARIS Business Process Analysis Platform | Software AG | Active |
+| Claude with the Anthropic API | Anthropic | Active |
+| AI Fluency: Framework & Foundations | Anthropic | Active |
+| Claude Code in Action | Anthropic | Active |
+| Claude 101 | Anthropic | Active |
 
 ---
 
