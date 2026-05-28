@@ -236,7 +236,7 @@ Topics in progress:
 | LinkedIn | linkedin.com/in/markagopikrishna |
 | HuggingFace | huggingface.co/GopiKrishna88 |
 | Portfolio | gopi-krishnamarka-0g286mc.gamma.site |
-| Email | markagopikrishna6@gmail.com |
+| Email | markagopikrishna68@gmail.com |
 
 </div>
 
