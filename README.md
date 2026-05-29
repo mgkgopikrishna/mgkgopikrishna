@@ -213,7 +213,7 @@ Topics in progress:
 - How I trained my first LLM from scratch for zero dollars
 - EdgeLLM — Moving AI inference to the edge for privacy
 - Building multi-agent AI systems on Kubernetes
-- MLOps lessons from 6 years in enterprise cloud
+- MLOps lessons from 5 years in enterprise cloud
 
 ---
 
