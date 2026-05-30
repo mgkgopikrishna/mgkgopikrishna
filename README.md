@@ -191,7 +191,7 @@ Topics in progress:
 
 <div align="center">
 
-**Open To Work** — Senior MLOps Engineer · AI Platform Engineer · LLMOps Engineer · Cloud Engineer · DevOps Engineer
+**Open To Work** — MLOps Engineer · AI Platform Engineer · LLMOps Engineer · Cloud Engineer · DevOps Engineer
 
 *Building at the intersection of DevOps and AI — one project at a time*
 
