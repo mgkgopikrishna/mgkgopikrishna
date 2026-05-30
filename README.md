@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Gopi%20Krishna%20Marka&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MLOphs%20%7C%20AI%20Platform%20%7C%20Cloud%20%7C%20DevOps%20Engineer&descAlignY=55&descColor=93c5fd" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Gopi%20Krishna%20Marka&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MLOps%20%7C%20AI%20Platform%20%7C%20Cloud%20%7C%20DevOps%20Engineer&descAlignY=55&descColor=93c5fd" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/markagopikrishna/)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/GopiKrishna88)
